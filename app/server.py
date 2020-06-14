@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1HTq6R0FCI4EPMmhAr2F4s28kf5ho3Y3f'
+export_file_url = 'https://www.dropbox.com/s/0hnoc376pzb1u1t/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['manet', 'monet']
